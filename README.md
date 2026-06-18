@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=700&lines=Building+scalable+enterprise+systems+with+.NET;Bridging+AI+%26+full-stack+engineering;Crafting+cloud-native+solutions+on+Azure;Junior+DevOps+Engineer+in+the+making;Final-year+SE+%40+Punjab+University+%7C+FCIT" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=720&lines=Full+Stack+.NET+Developer+%40+NKU+Technologies;Building+AI-powered+tools+that+actually+ship;ASP.NET+Core+%7C+Angular+%7C+Azure+%7C+Docker;Final-year+SE+%40+Punjab+University+FCIT;Open+to+remote+.NET+%2F+DevOps+roles" alt="Typing SVG" />
   </a>
 </p>
 
@@ -34,14 +34,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=urwatulwusqa23&style=flat-square&color=6D28D9&label=Profile+Views" />
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/urwatulwusqa23?style=flat-square&color=7C3AED&label=Followers&logo=github" />
-  &nbsp;
-  <img src="https://img.shields.io/github/stars/urwatulwusqa23?style=flat-square&color=8B5CF6&label=Stars&logo=github" />
-</p>
-
 ---
 
 ## About
@@ -50,16 +42,14 @@
 
 I am a final-year Software Engineering student at **Punjab University (FCIT)** and a practicing **Junior .NET Developer** at **NKU Technologies**, where I build enterprise-grade, full-stack applications using **ASP.NET Core**, **Entity Framework**, and **SQL Server**.
 
-My engineering approach spans the entire delivery lifecycle — from clean API design and relational data modelling to frontend dashboards (Angular, React) and CI/CD automation. I treat every system as a product: performance, security, and maintainability are non-negotiable constraints, not afterthoughts.
+My engineering approach spans the full delivery lifecycle — clean API design, relational data modelling, Angular/React frontends, and Docker-based deployment. I treat every system as a product: performance, security, and maintainability are built in, not bolted on.
 
-I am actively expanding into **cloud-native DevOps on Azure** and applied **AI/ML engineering**, with hands-on experience building an AI fitness assistant (PyTorch, computer vision) and integrating LLM tooling into production workflows.
+I am actively expanding into **cloud-native DevOps on Azure** and applied **AI engineering**, with hands-on experience building an AI fitness assistant (PyTorch, computer vision), an AI-powered job tracker, and integrating LLMs into production-ready web services.
 
 **Open To:**
-
-- Remote `.NET Developer` or `Junior DevOps Engineer` roles with Canadian companies
+- Remote `.NET Developer` or `Junior DevOps Engineer` roles — Canadian companies preferred
 - Full-stack or backend-focused contract engagements
 - Open source collaboration in the .NET / Azure / AI ecosystem
-- Research and mentorship opportunities in applied ML
 
 <br clear="right"/>
 
@@ -67,80 +57,97 @@ I am actively expanding into **cloud-native DevOps on Azure** and applied **AI/M
 
 ## Tech Stack
 
+<p align="center"><strong>Languages</strong></p>
 <p align="center">
-  <strong>Languages</strong>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,python,ts,js,cpp&theme=dark&perline=10" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=cs,python,ts,js,cpp&theme=dark&perline=10" />
 </p>
 
+<p align="center"><strong>Frontend</strong></p>
 <p align="center">
-  <strong>Frontend</strong>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,angular,html,css,tailwind&theme=dark&perline=10" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=react,angular,html,css,tailwind&theme=dark&perline=10" />
 </p>
 
+<p align="center"><strong>Backend & Databases</strong></p>
 <p align="center">
-  <strong>Backend &amp; Databases</strong>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dotnet,fastapi,nodejs,postgres,mysql,sqlite&theme=dark&perline=10" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=dotnet,fastapi,nodejs,postgres,mysql,sqlite&theme=dark&perline=10" />
 </p>
 
+<p align="center"><strong>Cloud, DevOps & Tooling</strong></p>
 <p align="center">
-  <strong>Cloud, DevOps &amp; Tooling</strong>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,docker,kubernetes,githubactions,git,linux,vscode,postman&theme=dark&perline=10" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=azure,docker,kubernetes,githubactions,git,linux,vscode,postman&theme=dark&perline=10" />
 </p>
 
 ---
 
-## AI / ML Expertise
+## AI / ML
 
 <div align="center">
 
-| Domain | Proficiency | Details |
+| Domain | Level | Details |
 |:---|:---:|:---|
-| Deep Learning | Intermediate | PyTorch, CNN-based architectures, model training pipelines |
+| Deep Learning | Intermediate | PyTorch, CNN architectures, model training pipelines |
 | Computer Vision | Intermediate | Pose estimation, object detection, real-time inference |
 | NLP & LLMs | Developing | Prompt engineering, LLM API integration, RAG fundamentals |
-| AI-Assisted Dev | Proficient | GitHub Copilot, Claude, AI-augmented code review |
-| ML Pipeline Design | Developing | Data preprocessing, feature engineering, model evaluation |
-| Applied AI Products | Proficient | End-to-end AI feature integration in full-stack apps |
+| Applied AI Products | Proficient | End-to-end AI feature integration in production web apps |
+| AI-Assisted Dev | Proficient | GitHub Copilot, Claude Code, AI-augmented workflows |
 
 </div>
 
 ---
 
-## Featured Projects
+## Projects
+
+<details>
+<summary><strong>⬡ &nbsp;Job Tracker AI — Intelligent Job Application Manager</strong></summary>
+
+<br>
+
+A full-stack, AI-powered job application tracking system that eliminates manual data entry. Paste any job email or WhatsApp message and the AI extracts company, role, salary, and job description automatically. Scans multiple Gmail inboxes simultaneously, generates personalised interview prep kits, identifies skill gaps against the 2025 job market, and surfaces live remote job listings matched to your CV.
+
+| Attribute | Detail |
+|:---|:---|
+| **Stack** | Python · Flask · Grok API (xAI) · SQLite · Vanilla JS · Docker |
+| **AI** | Grok-3-mini via OpenAI-compatible SDK — extract, prep, skill analysis, job matching |
+| **Integrations** | Gmail IMAP (multi-account) · Remotive live jobs API · pdfplumber CV parsing |
+| **Deployment** | Dockerised · Fly.io (persistent volume) · Render-ready |
+| **Impact** | Replaces a spreadsheet + 4 browser tabs with one tool; CV-aware interview Q&A in ~20s |
+
+</details>
+
+---
+
+<details>
+<summary><strong>⬡ &nbsp;Route Optimizer — Delivery Route Solver</strong></summary>
+
+<br>
+
+A logistics route optimisation tool that solves the Travelling Salesman Problem for real-world delivery scenarios — the same class of problem solved by Amazon and DPD at scale. Fetches real drive-time matrices (not straight-line distances) from OpenStreetMap, solves the optimal stop order using Google OR-Tools with Guided Local Search metaheuristic, then renders the actual road-snapped route on an interactive Leaflet.js map with draggable pins.
+
+| Attribute | Detail |
+|:---|:---|
+| **Stack** | Python · Flask · Google OR-Tools · OSRM API · Leaflet.js |
+| **Algorithm** | TSP — PATH_CHEAPEST_ARC seed + Guided Local Search (5s budget) |
+| **Data** | OSRM NxN duration matrix (real drive times) · GeoJSON road polyline |
+| **UX** | Draggable map pins · real road route overlay · per-leg drive times in sidebar |
+| **Impact** | Finds routes 15–30% shorter than naive nearest-neighbour on real geography |
+
+</details>
+
+---
 
 <details>
 <summary><strong>⬡ &nbsp;Campus Mart — Containerised Full-Stack Marketplace</strong></summary>
 
 <br>
 
-A containerised, microservice-influenced student marketplace platform built for university environments. Designed for high availability with Docker-based deployment, clean REST API architecture, and a responsive frontend consumer experience.
+A containerised student marketplace platform built for university environments. Designed for high availability with Docker-based deployment, clean REST API architecture, and a responsive frontend.
 
 | Attribute | Detail |
 |:---|:---|
 | **Stack** | ASP.NET Core · SQL Server · React · Docker · GitHub Actions |
-| **Scale** | Multi-user concurrent sessions · containerised service isolation |
-| **Performance** | Optimised EF Core queries · indexed relational schema |
 | **Security** | JWT authentication · role-based access control · input validation |
-| **Impact** | Full deployment pipeline with Docker Compose; production-ready architecture |
-| **Repository** | [github.com/urwatulwusqa23](https://github.com/urwatulwusqa23) |
-
-Campus Mart demonstrates end-to-end ownership of a product from database schema to CI/CD pipeline. The architecture enforces separation of concerns across authentication, product catalogue, and order management bounded contexts, with each layer individually testable and deployable.
+| **Architecture** | Separation of concerns across auth, catalogue, and order bounded contexts |
+| **Impact** | Full deployment pipeline with Docker Compose; production-ready CI/CD |
 
 </details>
 
@@ -151,40 +158,32 @@ Campus Mart demonstrates end-to-end ownership of a product from database schema 
 
 <br>
 
-An AI-powered personal fitness assistant combining PyTorch-based computer vision with a conversational interface. The system analyses exercise form in real time across four independent functional modules.
+An AI-powered personal fitness assistant combining PyTorch-based computer vision with a conversational interface. Analyses exercise form in real time across four independent functional modules — form analysis, rep counting, caloric estimation, and coaching feedback.
 
 | Attribute | Detail |
 |:---|:---|
 | **Stack** | Python · PyTorch · OpenCV · FastAPI · React |
-| **Scale** | Real-time video inference · four modular AI pipelines |
-| **Performance** | Optimised model inference loop · frame-level pose estimation |
-| **Security** | Stateless API design · local inference (no data egress) |
-| **Impact** | Delivered a functional AI product integrating CV, NLP, and REST layers |
-| **Repository** | [github.com/urwatulwusqa23](https://github.com/urwatulwusqa23) |
-
-FitBot represents applied machine learning in a consumer-facing product context. Each of the four modules — form analysis, rep counting, caloric estimation, and coaching feedback — is independently maintained, reflecting sound software modularity principles applied to ML systems.
+| **AI** | Real-time pose estimation · frame-level CNN inference |
+| **Architecture** | Four independently maintained ML modules — sound modularity applied to ML systems |
+| **Impact** | Final Year Project — presented to faculty panel; end-to-end AI product |
 
 </details>
 
 ---
 
 <details>
-<summary><strong>⬡ &nbsp;RCA Intelligence Dashboard — Enterprise Angular Analytics Platform</strong></summary>
+<summary><strong>⬡ &nbsp;RCA Intelligence Dashboard — Enterprise Angular Analytics</strong></summary>
 
 <br>
 
-An enterprise-grade Root Cause Analysis visualisation platform built for internal engineering teams. Features Chart.js-powered scatter plots, pie charts, and time-series graphs with a dual-mode (dark/light) theming system.
+An enterprise Root Cause Analysis visualisation platform for internal engineering teams. Features Chart.js scatter plots, pie charts, and time-series graphs with a dual-mode (dark/light) theming system.
 
 | Attribute | Detail |
 |:---|:---|
 | **Stack** | Angular · TypeScript · Chart.js · PrimeNG · ASP.NET Core · Entity Framework |
-| **Scale** | Multi-team data aggregation · grouped RCA header queries |
-| **Performance** | Lazy-loaded chart modules · debounced filter interactions |
-| **Security** | Role-scoped data access · parameterised EF Core queries |
+| **Performance** | Lazy-loaded chart modules · debounced filter interactions · N+1-free EF queries |
+| **Theming** | CSS custom-property system covering 40+ variables across both colour modes |
 | **Impact** | Replaced manual reporting with an interactive drill-down dashboard |
-| **Repository** | [github.com/urwatulwusqa23](https://github.com/urwatulwusqa23) |
-
-The RCA Dashboard required deep integration between a C# backend (grouped comma-separated team identifiers in `RCA_Header`) and a PrimeNG Angular frontend, including custom tooltip filtering, loading overlays, and a CSS custom-property theming system covering 40+ variables across both colour modes.
 
 </details>
 
@@ -200,13 +199,8 @@ A production-grade content summarisation service integrating LLM APIs into a lig
 | Attribute | Detail |
 |:---|:---|
 | **Stack** | Python · FastAPI · LLM API · React |
-| **Scale** | Asynchronous request handling · batch processing support |
-| **Performance** | Streaming response support · efficient token budget management |
-| **Security** | API key abstraction · rate-limit-aware request throttling |
-| **Impact** | Demonstrates practical LLM integration in a deployable web service |
-| **Repository** | [github.com/urwatulwusqa23](https://github.com/urwatulwusqa23) |
-
-This project reflects a growing focus on LLM engineering patterns — prompt design, response streaming, and responsible token management — applied to a real content workflow problem.
+| **Features** | Streaming response support · efficient token budget management · rate-limit-aware throttling |
+| **Impact** | Demonstrates practical LLM integration patterns in a deployable web service |
 
 </details>
 
@@ -217,18 +211,14 @@ This project reflects a growing focus on LLM engineering patterns — prompt des
 
 <br>
 
-A clean, RESTful content management backend with full CRUD operations, user authentication, and markdown rendering support. Built to demonstrate sound API design principles and relational database modelling.
+A clean, RESTful CMS backend with full CRUD operations, user authentication, and markdown rendering. Built as a reference implementation of .NET backend best practices.
 
 | Attribute | Detail |
 |:---|:---|
 | **Stack** | ASP.NET Core · SQL Server · Entity Framework Core |
-| **Scale** | Multi-author support · paginated feed queries |
-| **Performance** | N+1-free EF queries · indexed author and date columns |
+| **Patterns** | Repository pattern · service layer separation · global exception middleware |
 | **Security** | JWT-based auth · hashed credentials · ownership guards |
-| **Impact** | Clean RESTful contract with full Swagger documentation |
-| **Repository** | [github.com/urwatulwusqa23](https://github.com/urwatulwusqa23) |
-
-Designed as a reference implementation of .NET backend best practices: repository pattern, service layer separation, and globally handled exceptions via middleware.
+| **Docs** | Full Swagger / OpenAPI documentation |
 
 </details>
 
@@ -237,16 +227,15 @@ Designed as a reference implementation of .NET backend best practices: repositor
 ## Experience
 
 ### Junior .NET Developer &nbsp;·&nbsp; NKU Technologies
-`Jan 2024 – Present` &nbsp;·&nbsp; Lahore, Pakistan (On-site)
+`Jan 2024 – Present` &nbsp;·&nbsp; Lahore, Pakistan
 
-Contributing to enterprise full-stack development within a product engineering team, delivering features across the complete application stack from SQL Server schema to Angular/React frontend.
+Contributing to enterprise full-stack development across the complete application stack — SQL Server schema through to Angular frontend.
 
-- Design and implement RESTful APIs in **ASP.NET Core** with Entity Framework Core ORM
-- Build and maintain interactive dashboards using **Angular**, **TypeScript**, and **Chart.js / PrimeNG**
-- Author and optimise complex **SQL Server** queries including grouped aggregations and indexed views
-- Implement dual-mode (dark/light) CSS theming systems using custom property architectures
-- Contribute to team code reviews and participate in sprint planning and delivery cycles
-- Assist with debugging production issues across the full stack (C# backend + Angular frontend)
+- Design and implement RESTful APIs in **ASP.NET Core** with Entity Framework Core
+- Build interactive dashboards using **Angular**, **TypeScript**, and **Chart.js / PrimeNG**
+- Author and optimise complex **SQL Server** queries — grouped aggregations, indexed views
+- Implement dual-mode CSS theming systems using custom-property architectures
+- Participate in code reviews, sprint planning, and production debugging across the full stack
 
 <p>
   <img src="https://img.shields.io/badge/ASP.NET%20Core-6D28D9?style=flat-square&logo=dotnet&logoColor=white" />
@@ -254,7 +243,6 @@ Contributing to enterprise full-stack development within a product engineering t
   <img src="https://img.shields.io/badge/Angular-8B5CF6?style=flat-square&logo=angular&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-4C1D95?style=flat-square&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL%20Server-6D28D9?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/Chart.js-7C3AED?style=flat-square&logo=chartdotjs&logoColor=white" />
 </p>
 
 ---
@@ -262,11 +250,9 @@ Contributing to enterprise full-stack development within a product engineering t
 ### Software Engineering Intern &nbsp;·&nbsp; Nexium
 `2023` &nbsp;·&nbsp; Lahore, Pakistan
 
-Gained hands-on exposure to full-stack development in a fast-paced startup environment, contributing to feature development and internal tooling across web application layers.
-
 - Built frontend components and integrated REST APIs in a React-based application
+- Delivered sprint tickets while learning production-grade coding standards
 - Participated in agile ceremonies and collaborated with senior engineers on code quality
-- Delivered assigned tickets within sprint cycles while learning production-grade coding standards
 
 <p>
   <img src="https://img.shields.io/badge/React-6D28D9?style=flat-square&logo=react&logoColor=white" />
@@ -279,17 +265,9 @@ Gained hands-on exposure to full-stack development in a fast-paced startup envir
 ### President — Event Management Society &nbsp;·&nbsp; Punjab University FCIT
 `2023 – 2024`
 
-Led the university's primary technical events society, overseeing end-to-end planning and execution of engineering workshops, hackathons, and industry speaker sessions.
-
-- Managed a core team and coordinated cross-departmental events attended by 200+ students
-- Drove partnerships with industry sponsors and coordinated guest speaker engagements
-- Developed leadership, stakeholder communication, and project delivery under time constraints
-
-<p>
-  <img src="https://img.shields.io/badge/Leadership-6D28D9?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/Event%20Strategy-7C3AED?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/Team%20Management-8B5CF6?style=flat-square&logoColor=white" />
-</p>
+- Led the university's primary technical events society; 200+ student community
+- Managed end-to-end planning of engineering workshops, hackathons, and industry speaker sessions
+- Drove industry partnerships and coordinated guest speaker engagements
 
 ---
 
@@ -299,62 +277,29 @@ Led the university's primary technical events society, overseeing end-to-end pla
 
 | Recognition | Details |
 |:---|:---|
-| GitHub Pull Shark ×2 | Earned for consistently opening and merging pull requests that others review |
-| GitHub Quickdraw | Awarded for closing issues and PRs within minutes of opening |
-| GitHub YOLO | Earned for merging a pull request without a code review |
 | Microsoft AI Skills Fest 2026 | Completed Microsoft's global AI skills challenge (June 2026) — Credly badge + exam voucher |
-| Event Management Society President | Elected president; led 200+ student community across two academic semesters |
-| Final Year Project — FitBot | AI fitness assistant with four integrated ML modules presented to faculty panel |
+| GitHub Pull Shark ×2 | Consistently opening and merging pull requests that others review |
+| GitHub Quickdraw | Closing issues and PRs within minutes of opening |
+| Event Management Society President | Led 200+ student community across two academic semesters |
+| Final Year Project — FitBot | AI fitness assistant with four integrated ML modules; presented to faculty panel |
 
 </div>
 
 ---
 
-## Certifications
+## Certification
 
-<p align="center"><strong>Microsoft</strong></p>
 <p align="center">
   <img src="https://img.shields.io/badge/Microsoft%20AI%20Skills%20Fest%202026-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure%20Fundamentals%20AZ--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-</p>
-
-<p align="center"><strong>GitHub</strong></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/GitHub%20Actions%20CI%2FCD-181717?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub%20Copilot-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
-
-<p align="center"><strong>Cisco</strong></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Cisco%20Introduction%20to%20Cybersecurity-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cisco%20Python%20Essentials-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-</p>
-
-<p align="center"><strong>NPTEL</strong></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/NPTEL%20Cloud%20Computing-FF6D00?style=for-the-badge&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/NPTEL%20Programming%20in%20Java-FF6D00?style=for-the-badge&logo=openjdk&logoColor=white" />
 </p>
 
 ---
 
-## Coding Profiles
+## Coding
 
 <p align="center">
   <a href="https://leetcode.com/urwatulwusqa23" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-  &nbsp;
-  <a href="https://www.geeksforgeeks.org/user/urwatulwusqa23" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://www.hackerrank.com/urwatulwusqa23" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" />
-  </a>
-  &nbsp;
-  <a href="https://www.codechef.com/users/urwatulwusqa23" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
   </a>
 </p>
 
@@ -374,14 +319,6 @@ Led the university's primary technical events society, overseeing end-to-end pla
 
 ---
 
-## GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=urwatulwusqa23&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6&title_color=A78BFA" />
-</p>
-
----
-
 ## Contribution Activity
 
 <p align="center">
@@ -390,45 +327,27 @@ Led the university's primary technical events society, overseeing end-to-end pla
 
 ---
 
-## Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/urwatulwusqa23/urwatulwusqa23/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/urwatulwusqa23/urwatulwusqa23/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/urwatulwusqa23/urwatulwusqa23/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
-</p>
-
-> To enable the snake animation: create a GitHub Actions workflow in your profile repository that runs `Platane/snk` and commits the SVG output to an `output` branch. See [github.com/Platane/snk](https://github.com/Platane/snk) for setup.
-
----
-
 ## Current Focus
 
 ```yaml
-current_focus:
-  learning:
-    - Azure DevOps pipelines and infrastructure-as-code (Bicep / ARM)
-    - Kubernetes fundamentals and container orchestration
-    - GitHub Actions for multi-environment CI/CD workflows
-    - Microsoft AI Skills certification track
+learning:
+  - Azure DevOps pipelines and infrastructure-as-code (Bicep / ARM)
+  - Kubernetes fundamentals and container orchestration
+  - GitHub Actions for multi-environment CI/CD workflows
 
-  building:
-    - Azure-hosted DevOps portfolio (3 projects: CI/CD, IaC, monitoring)
-    - React portfolio site (DM Serif Display · dark editorial aesthetic)
-    - Production-ready .NET microservice reference architecture
+building:
+  - Azure-hosted DevOps portfolio (CI/CD, IaC, monitoring)
+  - Production-ready .NET microservice reference architecture
 
-  exploring:
-    - Retrieval-Augmented Generation (RAG) patterns for enterprise apps
-    - LLM integration in ASP.NET Core API pipelines
-    - OpenTelemetry for distributed tracing in .NET systems
+exploring:
+  - RAG patterns for enterprise .NET applications
+  - LLM integration in ASP.NET Core API pipelines
+  - OpenTelemetry for distributed tracing in .NET systems
 
-  open_to:
-    - Remote .NET Developer roles with Canadian companies
-    - Junior DevOps Engineer positions (Azure-first)
-    - Full-stack contract work in the .NET / React ecosystem
-    - Open source contributions in .NET, DevOps tooling, or AI/ML
+open_to:
+  - Remote .NET Developer roles — Canadian companies preferred
+  - Junior DevOps Engineer positions (Azure-first)
+  - Full-stack contract work in the .NET / React ecosystem
 ```
 
 ---
