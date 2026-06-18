@@ -263,11 +263,18 @@ Contributing to enterprise full-stack development across the complete applicatio
 ---
 
 ### President — Event Management Society &nbsp;·&nbsp; Punjab University FCIT
-`2023 – 2024`
+`2025 – 2026`
 
-- Led the university's primary technical events society; 200+ student community
+- Led the university's primary technical events society; 50+ student community
 - Managed end-to-end planning of engineering workshops, hackathons, and industry speaker sessions
 - Drove industry partnerships and coordinated guest speaker engagements
+
+
+### General Secretary — Sports Society &nbsp;·&nbsp; Punjab University FCIT
+`2025 – 2026`
+
+- Led the university's primary sports society; 200+ student community
+- Managed end-to-end planning of mini-olympics
 
 ---
 
