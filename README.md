@@ -1,64 +1,41 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,100:8B5CF6&height=200&section=header&text=Urwa%20Tul%20Wusqa&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Full%20Stack%20.NET%20Developer%20%E2%80%A2%20AI%20Enthusiast&descAlignY=58&descSize=16&animation=fadeIn" />
-</p>
+# Urwa Tul Wusqa
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=800&color=8B5CF6&center=true&vCenter=true&multiline=false&width=720&lines=Full+Stack+.NET+Developer+%40+NKU+Technologies;Building+AI-powered+tools+that+actually+ship;ASP.NET+Core+%7C+Angular+%7C+Azure+%7C+Docker;Final-year+SE+%40+Punjab+University+FCIT;Open+to+remote+.NET+%2F+DevOps+roles" alt="Typing SVG" />
-</p>
+Software Engineer · Full-Stack .NET Developer · AI Enthusiast
 
-<p align="center">
-  <img src="https://img.shields.io/badge/B.Sc%20Software%20Engineering-Punjab%20University%20FCIT-4C1D95?style=flat-square" />
-  <img src="https://img.shields.io/badge/Final%20Year-2025%2F2026-8B5CF6?style=flat-square" />
-  <img src="https://img.shields.io/badge/Lahore%2C%20Pakistan-4C1D95?style=flat-square" />
-</p>
+B.Sc Software Engineering, Punjab University FCIT (Graduated 2026) · Lahore, Pakistan
 
-<p align="center">
-  <a href="https://urwatulwusqa23.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/urwatulwusqa" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:urwatulwusqa23@gmail.com"><img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/urwatulwusqa23" target="_blank"><img src="https://img.shields.io/badge/GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+[Portfolio](https://urwatulwusqa23.github.io) · [LinkedIn](https://www.linkedin.com/in/urwatulwusqa) · [Email](mailto:urwatulwusqa23@gmail.com) · [GitHub](https://github.com/urwatulwusqa23)
 
 ---
 
 ## About
 
-<img align="right" width="340" src="https://github-readme-stats.vercel.app/api?username=urwatulwusqa23&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
-I am a final-year Software Engineering student at **Punjab University (FCIT)** and a practicing **Junior .NET Developer** at **NKU Technologies**, where I build enterprise-grade, full-stack applications using **ASP.NET Core**, **Entity Framework**, and **SQL Server**.
+I'm a B.Sc Software Engineering graduate from Punjab University (FCIT) and a practicing Junior .NET Developer at NKU Technologies, where I build enterprise-grade, full-stack applications using ASP.NET Core, Entity Framework, and SQL Server.
 
 My engineering approach spans the full delivery lifecycle — clean API design, relational data modelling, Angular/React frontends, and Docker-based deployment. I treat every system as a product: performance, security, and maintainability are built in, not bolted on.
 
-I am actively expanding into **cloud-native DevOps on Azure** and applied **AI engineering**, with hands-on experience building an AI fitness assistant (PyTorch, computer vision), an AI-powered job tracker, and integrating LLMs into production-ready web services.
+I'm actively expanding into cloud-native DevOps on Azure and applied AI engineering, with hands-on experience building an AI fitness assistant (PyTorch, computer vision), an AI-powered job tracker, and integrating LLMs into production-ready web services.
 
 **Open to:**
-- Remote `.NET Developer` or `Junior DevOps Engineer` roles — Canadian companies preferred
+- Remote .NET Developer or Junior DevOps Engineer roles — Canadian companies preferred
 - Full-stack or backend-focused contract engagements
 - Open source collaboration in the .NET / Azure / AI ecosystem
-
-<br clear="right"/>
 
 ---
 
 ## Tech Stack
 
-<p align="center"><strong>Languages</strong></p>
-<p align="center"><img src="https://skillicons.dev/icons?i=cs,python,ts,js,cpp&theme=dark&perline=10" /></p>
+**Languages** — C#, Python, TypeScript, JavaScript, C++
 
-<p align="center"><strong>Frontend</strong></p>
-<p align="center"><img src="https://skillicons.dev/icons?i=react,angular,html,css,tailwind&theme=dark&perline=10" /></p>
+**Frontend** — React, Angular, HTML, CSS, Tailwind
 
-<p align="center"><strong>Backend & Databases</strong></p>
-<p align="center"><img src="https://skillicons.dev/icons?i=dotnet,fastapi,nodejs,postgres,mysql,sqlite&theme=dark&perline=10" /></p>
+**Backend & Databases** — ASP.NET Core, FastAPI, Node.js, PostgreSQL, MySQL, SQLite
 
-<p align="center"><strong>Cloud, DevOps & Tooling</strong></p>
-<p align="center"><img src="https://skillicons.dev/icons?i=azure,docker,kubernetes,githubactions,git,linux,vscode,postman&theme=dark&perline=10" /></p>
+**Cloud, DevOps & Tooling** — Azure, Docker, Kubernetes, GitHub Actions, Git, Linux, VS Code, Postman
 
 ---
 
 ## AI / ML
-
-<div align="center">
 
 | Domain | Level | Details |
 |:---|:---:|:---|
@@ -68,163 +45,119 @@ I am actively expanding into **cloud-native DevOps on Azure** and applied **AI e
 | Applied AI Products | Proficient | End-to-end AI feature integration in production web apps |
 | AI-Assisted Dev | Proficient | GitHub Copilot, Claude Code, AI-augmented workflows |
 
-</div>
-
 ---
 
 ## Projects
 
-<details>
-<summary><strong>⬡ Job Tracker AI — Intelligent Job Application Manager</strong></summary>
-<br>
+### Job Tracker AI — Intelligent Job Application Manager
 
 A full-stack, AI-powered job application tracking system that eliminates manual data entry. Paste any job email or WhatsApp message and the AI extracts company, role, salary, and job description automatically. Scans multiple Gmail inboxes simultaneously, generates personalised interview prep kits, identifies skill gaps against the 2025 job market, and surfaces live remote job listings matched to your CV.
 
 | Attribute | Detail |
 |:---|:---|
-| **Stack** | Python · Flask · Grok API (xAI) · SQLite · Vanilla JS · Docker |
-| **AI** | Grok-3-mini via OpenAI-compatible SDK — extract, prep, skill analysis, job matching |
-| **Integrations** | Gmail IMAP (multi-account) · Remotive live jobs API · pdfplumber CV parsing |
-| **Deployment** | Dockerised · Fly.io (persistent volume) · Render-ready |
-| **Impact** | Replaces a spreadsheet + 4 browser tabs with one tool; CV-aware interview Q&A in ~20s |
+| Stack | Python · Flask · Grok API (xAI) · SQLite · Vanilla JS · Docker |
+| AI | Grok-3-mini via OpenAI-compatible SDK — extract, prep, skill analysis, job matching |
+| Integrations | Gmail IMAP (multi-account) · Remotive live jobs API · pdfplumber CV parsing |
+| Deployment | Dockerised · Fly.io (persistent volume) · Render-ready |
+| Impact | Replaces a spreadsheet + 4 browser tabs with one tool; CV-aware interview Q&A in ~20s |
 
-</details>
-
-<details>
-<summary><strong>⬡ Route Optimizer — Delivery Route Solver</strong></summary>
-<br>
+### Route Optimizer — Delivery Route Solver
 
 A logistics route optimisation tool that solves the Travelling Salesman Problem for real-world delivery scenarios — the same class of problem solved by Amazon and DPD at scale. Fetches real drive-time matrices (not straight-line distances) from OpenStreetMap, solves the optimal stop order using Google OR-Tools with Guided Local Search metaheuristic, then renders the actual road-snapped route on an interactive Leaflet.js map with draggable pins.
 
 | Attribute | Detail |
 |:---|:---|
-| **Stack** | Python · Flask · Google OR-Tools · OSRM API · Leaflet.js |
-| **Algorithm** | TSP — PATH_CHEAPEST_ARC seed + Guided Local Search (5s budget) |
-| **Data** | OSRM NxN duration matrix (real drive times) · GeoJSON road polyline |
-| **UX** | Draggable map pins · real road route overlay · per-leg drive times in sidebar |
-| **Impact** | Finds routes 15–30% shorter than naive nearest-neighbour on real geography |
+| Stack | Python · Flask · Google OR-Tools · OSRM API · Leaflet.js |
+| Algorithm | TSP — PATH_CHEAPEST_ARC seed + Guided Local Search (5s budget) |
+| Data | OSRM NxN duration matrix (real drive times) · GeoJSON road polyline |
+| UX | Draggable map pins · real road route overlay · per-leg drive times in sidebar |
+| Impact | Finds routes 15–30% shorter than naive nearest-neighbour on real geography |
 
-</details>
-
-<details>
-<summary><strong>⬡ Campus Mart — Containerised Full-Stack Marketplace</strong></summary>
-<br>
+### Campus Mart — Containerised Full-Stack Marketplace
 
 A containerised student marketplace platform built for university environments. Designed for high availability with Docker-based deployment, clean REST API architecture, and a responsive frontend.
 
 | Attribute | Detail |
 |:---|:---|
-| **Stack** | ASP.NET Core · SQL Server · React · Docker · GitHub Actions |
-| **Security** | JWT authentication · role-based access control · input validation |
-| **Architecture** | Separation of concerns across auth, catalogue, and order bounded contexts |
-| **Impact** | Full deployment pipeline with Docker Compose; production-ready CI/CD |
+| Stack | ASP.NET Core · SQL Server · React · Docker · GitHub Actions |
+| Security | JWT authentication · role-based access control · input validation |
+| Architecture | Separation of concerns across auth, catalogue, and order bounded contexts |
+| Impact | Full deployment pipeline with Docker Compose; production-ready CI/CD |
 
-</details>
-
-<details>
-<summary><strong>⬡ FitBot — AI Fitness Assistant with Computer Vision</strong></summary>
-<br>
+### FitBot — AI Fitness Assistant with Computer Vision
 
 An AI-powered personal fitness assistant combining PyTorch-based computer vision with a conversational interface. Analyses exercise form in real time across four independent functional modules — form analysis, rep counting, caloric estimation, and coaching feedback.
 
 | Attribute | Detail |
 |:---|:---|
-| **Stack** | Python · PyTorch · OpenCV · FastAPI · React |
-| **AI** | Real-time pose estimation · frame-level CNN inference |
-| **Architecture** | Four independently maintained ML modules — sound modularity applied to ML systems |
-| **Impact** | Final Year Project — presented to faculty panel; end-to-end AI product |
+| Stack | Python · PyTorch · OpenCV · FastAPI · React |
+| AI | Real-time pose estimation · frame-level CNN inference |
+| Architecture | Four independently maintained ML modules — sound modularity applied to ML systems |
+| Impact | Final Year Project — presented to faculty panel; end-to-end AI product |
 
-</details>
-
-<details>
-<summary><strong>⬡ RCA Intelligence Dashboard — Enterprise Angular Analytics</strong></summary>
-<br>
+### RCA Intelligence Dashboard — Enterprise Angular Analytics
 
 An enterprise Root Cause Analysis visualisation platform for internal engineering teams. Features Chart.js scatter plots, pie charts, and time-series graphs with a dual-mode (dark/light) theming system.
 
 | Attribute | Detail |
 |:---|:---|
-| **Stack** | Angular · TypeScript · Chart.js · PrimeNG · ASP.NET Core · Entity Framework |
-| **Performance** | Lazy-loaded chart modules · debounced filter interactions · N+1-free EF queries |
-| **Theming** | CSS custom-property system covering 40+ variables across both colour modes |
-| **Impact** | Replaced manual reporting with an interactive drill-down dashboard |
+| Stack | Angular · TypeScript · Chart.js · PrimeNG · ASP.NET Core · Entity Framework |
+| Performance | Lazy-loaded chart modules · debounced filter interactions · N+1-free EF queries |
+| Theming | CSS custom-property system covering 40+ variables across both colour modes |
+| Impact | Replaced manual reporting with an interactive drill-down dashboard |
 
-</details>
-
-<details>
-<summary><strong>⬡ AI Blog Summariser — LLM-Powered Content Pipeline</strong></summary>
-<br>
+### AI Blog Summariser — LLM-Powered Content Pipeline
 
 A production-grade content summarisation service integrating LLM APIs into a lightweight Python pipeline. Accepts long-form blog articles and returns structured, audience-appropriate summaries with configurable length and tone.
 
 | Attribute | Detail |
 |:---|:---|
-| **Stack** | Python · FastAPI · LLM API · React |
-| **Features** | Streaming response support · efficient token budget management · rate-limit-aware throttling |
-| **Impact** | Demonstrates practical LLM integration patterns in a deployable web service |
+| Stack | Python · FastAPI · LLM API · React |
+| Features | Streaming response support · efficient token budget management · rate-limit-aware throttling |
+| Impact | Demonstrates practical LLM integration patterns in a deployable web service |
 
-</details>
-
-<details>
-<summary><strong>⬡ Mini Blogging Platform — RESTful CMS Backend</strong></summary>
-<br>
+### Mini Blogging Platform — RESTful CMS Backend
 
 A clean, RESTful CMS backend with full CRUD operations, user authentication, and markdown rendering. Built as a reference implementation of .NET backend best practices.
 
 | Attribute | Detail |
 |:---|:---|
-| **Stack** | ASP.NET Core · SQL Server · Entity Framework Core |
-| **Patterns** | Repository pattern · service layer separation · global exception middleware |
-| **Security** | JWT-based auth · hashed credentials · ownership guards |
-| **Docs** | Full Swagger / OpenAPI documentation |
-
-</details>
+| Stack | ASP.NET Core · SQL Server · Entity Framework Core |
+| Patterns | Repository pattern · service layer separation · global exception middleware |
+| Security | JWT-based auth · hashed credentials · ownership guards |
+| Docs | Full Swagger / OpenAPI documentation |
 
 ---
 
 ## Experience
 
-### Junior .NET Developer · NKU Technologies
-`Jan 2024 – Present` · Lahore, Pakistan
+**Junior .NET Developer** · NKU Technologies
+Jan 2024 – Present · Lahore, Pakistan
 
 Contributing to enterprise full-stack development across the complete application stack — SQL Server schema through to Angular frontend.
 
-- Design and implement RESTful APIs in **ASP.NET Core** with Entity Framework Core
-- Build interactive dashboards using **Angular**, **TypeScript**, and **Chart.js / PrimeNG**
-- Author and optimise complex **SQL Server** queries — grouped aggregations, indexed views
+- Design and implement RESTful APIs in ASP.NET Core with Entity Framework Core
+- Build interactive dashboards using Angular, TypeScript, and Chart.js / PrimeNG
+- Author and optimise complex SQL Server queries — grouped aggregations, indexed views
 - Implement dual-mode CSS theming systems using custom-property architectures
 - Participate in code reviews, sprint planning, and production debugging across the full stack
 
-<p>
-  <img src="https://img.shields.io/badge/ASP.NET%20Core-4C1D95?style=flat-square&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Entity%20Framework-4C1D95?style=flat-square&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Angular-8B5CF6?style=flat-square&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-8B5CF6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL%20Server-4C1D95?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
-</p>
-
-### Software Engineering Intern · Nexium
-`2023` · Lahore, Pakistan
+**Software Engineering Intern** · Nexium
+2023 · Lahore, Pakistan
 
 - Built frontend components and integrated REST APIs in a React-based application
 - Delivered sprint tickets while learning production-grade coding standards
 - Participated in agile ceremonies and collaborated with senior engineers on code quality
 
-<p>
-  <img src="https://img.shields.io/badge/React-4C1D95?style=flat-square&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST%20APIs-8B5CF6?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Agile-4C1D95?style=flat-square" />
-</p>
-
-### President — Event Management Society · Punjab University FCIT
-`2025 – 2026`
+**President, Event Management Society** · Punjab University FCIT
+2025 – 2026
 
 - Led the university's primary technical events society; 50+ student community
 - Managed end-to-end planning of engineering workshops, hackathons, and industry speaker sessions
 - Drove industry partnerships and coordinated guest speaker engagements
 
-### General Secretary — Sports Society · Punjab University FCIT
-`2025 – 2026`
+**General Secretary, Sports Society** · Punjab University FCIT
+2025 – 2026
 
 - Led the university's primary sports society; 200+ student community
 - Managed end-to-end planning of mini-olympics
@@ -232,8 +165,6 @@ Contributing to enterprise full-stack development across the complete applicatio
 ---
 
 ## Achievements
-
-<div align="center">
 
 | Recognition | Details |
 |:---|:---|
@@ -243,44 +174,19 @@ Contributing to enterprise full-stack development across the complete applicatio
 | Event Management Society President | Led 200+ student community across two academic semesters |
 | Final Year Project — FitBot | AI fitness assistant with four integrated ML modules; presented to faculty panel |
 
-</div>
-
----
-
-## Certification
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Microsoft%20AI%20Skills%20Fest%202026-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
-</p>
-
 ---
 
 ## Coding
 
-<p align="center">
-  <a href="https://leetcode.com/urwatulwusqa23" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-</p>
+[LeetCode](https://leetcode.com/urwatulwusqa23)
 
 ---
 
 ## GitHub Analytics
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=urwatulwusqa23&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=urwatulwusqa23&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=urwatulwusqa23&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=urwatulwusqa23&theme=tokyo-night&hide_border=true&area=true" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=urwatulwusqa23&show_icons=true&theme=transparent&hide_border=true&count_private=true&rank_icon=github)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=urwatulwusqa23&layout=compact&theme=transparent&hide_border=true&langs_count=8)
+![Streak Stats](https://streak-stats.demolab.com?user=urwatulwusqa23&theme=transparent&hide_border=true)
 
 ---
 
@@ -311,17 +217,4 @@ open_to:
 
 ## Connect
 
-<p align="center">
-  <a href="mailto:urwatulwusqa23@gmail.com"><img src="https://img.shields.io/badge/Gmail-urwatulwusqa23%40gmail.com-4C1D95?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/urwatulwusqa" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Urwa%20Tul%20Wusqa-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/urwatulwusqa23" target="_blank"><img src="https://img.shields.io/badge/GitHub-urwatulwusqa23-4C1D95?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://urwatulwusqa23.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio-urwatulwusqa23.github.io-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-</p>
-
----
-
-<p align="center"><em>Engineering systems that scale. Solving problems that matter. Shipping software that endures.</em></p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:4C1D95&height=120&section=footer&animation=fadeIn" />
-</p>
+[Email](mailto:urwatulwusqa23@gmail.com) · [LinkedIn](https://www.linkedin.com/in/urwatulwusqa) · [GitHub](https://github.com/urwatulwusqa23) · [Portfolio](https://urwatulwusqa23.github.io)
